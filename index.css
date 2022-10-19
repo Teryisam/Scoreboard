@@ -1,6 +1,11 @@
 body {
     margin: 0;
     text-align: center;
+    position: relative;
+    width: 575px;
+    height: 385px;
+
+    background: #1B244A
 }
 
 .score {
