@@ -15,9 +15,7 @@ body {
 .container {
     display: flex;
     justify-content: space-around;
-    position: relative;
-    width: 575px;
-    height: 385px;
+    
 }
 
 button {
