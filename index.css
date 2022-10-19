@@ -1,11 +1,7 @@
 body {
     margin: 0;
     text-align: center;
-    position: relative;
-    width: 575px;
-    height: 385px;
-
-    background: #1B244A
+    
 }
 
 .score {
@@ -19,6 +15,11 @@ body {
 .container {
     display: flex;
     justify-content: space-around;
+    position: relative;
+    width: 575px;
+    height: 385px;
+
+    background: #1B244A
 }
 
 button {
