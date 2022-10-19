@@ -20,7 +20,7 @@ body {
 
 button {
     background: none;
-    padding: 10px;
+    border-radius: 5px;
 }
 
 
